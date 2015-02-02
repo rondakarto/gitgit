@@ -1,4 +1,3 @@
-# gitgit
-my not first repo in github
-
-edit
+주말에 읽은 책
+1. 호모루두스
+2. 무의수학 무한의수학
